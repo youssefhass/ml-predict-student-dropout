@@ -1,6 +1,7 @@
 pip
+xgboost
 scikit-learn
-faker
+catboost
 ucimlrepo
 pandas
 matplotlib
