@@ -1,6 +1,5 @@
 .ipynb_checkpoints
 .idea
-data.ipynb
 venv
 .DS_Store
 __pycache__
