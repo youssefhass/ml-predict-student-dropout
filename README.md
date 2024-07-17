@@ -2,6 +2,8 @@
 
 This project aims to predict student dropout rates and academic success using various machine learning techniques. The dataset used for this analysis is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success).
 
+The success of students in completing their college education is of utmost importance to the development of the nation. Graduates become valuable contributors to the economy as part of the labor force. Moreover, timely completion of college helps schools and universities manage their budget efficiently since student retention plays a significant role in the allocation of expenses, particularly if the students are supported by scholarships. Nevertheless, certain factors affect students' ability to succeed in college. In this analysis, we will examine various factors such as demographics, socioeconomic and macroeconomic status, and academic performance that contribute to students' academic success. We will also utilize these factors to construct a model to predict whether students are likely to drop out or successfully complete their college education.
+
 ## Data Description
 
 - **Marital Status**: The marital status of the student. (Categorical)
